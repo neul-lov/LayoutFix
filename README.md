@@ -282,3 +282,7 @@ wakeup per second as sampled by `top`.
   (`dkssud,` → `안녕,`), and words longer than 256 UTF-16 units are refused.
 - Ad-hoc signing means the Accessibility grant has to be renewed after each rebuild (see above).
 - Only Dubeolsik is supported (no Sebeolsik or other layouts).
+
+## License
+
+MIT. See [LICENSE](LICENSE).
